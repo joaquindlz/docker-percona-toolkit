@@ -1,4 +1,4 @@
-# percona-toolkit-xtrabackup docker image ()
+# percona-toolkit-xtrabackup docker image
 
 NOTE: fork fr3nd/docker-percona-toolkit and Percona xtrabackup added
 
@@ -67,4 +67,7 @@ Docker hub URL:
 https://hub.docker.com/r/joaquindlz/docker-percona-toolkit-xtrabackup
 
 Docker image download:
+
+```
 docker pull joaquindlz/docker-percona-toolkit-xtrabackup
+```
