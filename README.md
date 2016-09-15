@@ -1,4 +1,5 @@
 # percona-toolkit-xtrabackup docker image
+[![](https://images.microbadger.com/badges/image/joaquindlz/percona-toolkit-xtrabackup.svg)](https://microbadger.com/images/joaquindlz/percona-toolkit-xtrabackup "Get your own image badge on microbadger.com")
 
 NOTE: fork fr3nd/docker-percona-toolkit and Percona xtrabackup added
 
